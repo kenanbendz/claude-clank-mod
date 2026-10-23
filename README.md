@@ -7,6 +7,8 @@
 **A little robot that lives above your Claude Code prompt.**<br>
 Thinks when Claude thinks, types when Claude writes, runs when tools run, celebrates when the work is done.
 
+<img src="assets/screenshot.png" width="820" alt="Clank above the Claude Code prompt in cmux">
+
 </div>
 
 <br>
