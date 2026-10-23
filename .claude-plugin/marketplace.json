@@ -1,0 +1,16 @@
+{
+  "name": "clank",
+  "owner": { "name": "kenanbendz" },
+  "metadata": { "description": "Clank, an animated robot companion above the Claude Code prompt." },
+  "plugins": [
+    {
+      "name": "clank",
+      "version": "0.1.0",
+      "description": "Clank, an animated robot above the Claude Code prompt that acts out what Claude is doing.",
+      "author": { "name": "kenanbendz" },
+      "license": "MIT",
+      "keywords": ["mascot", "companion", "animation", "kitty-graphics"],
+      "source": "./"
+    }
+  ]
+}
